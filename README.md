@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://www.frontendmentor.io/solutions/solution-of-3column-preview-card-component-ZGhegab5ys
 - Live Site URL: https://akshansh029.github.io/FEM-3-column-preview-card/
 
 ## My process
